@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-23T22:10:43.553Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="XsclZeMqPtP1g6nbtL09" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-23T22:11:51.547Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="wD1FCGgLJA_s6-4QFVr8" version="21.3.3" type="github">
   <diagram name="Página-1" id="o_oJNjvjLYseJ4-ihuIS">
     <mxGraphModel dx="1434" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,8 +19,8 @@
         <mxCell id="YRfRc5hVLMAo7PMf_Jee-4" value="Entrada num1, num2" style="html=1;strokeWidth=2;shape=manualInput;whiteSpace=wrap;rounded=1;size=26;arcSize=11;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="220" y="130" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="YRfRc5hVLMAo7PMf_Jee-6" value="suma = num1 + num2&#xa;diferencia = num1 - num2&#xa;producto = num1 * num2&#xa;cociente = num1 / num2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="225" y="280" width="150" height="170" as="geometry" />
+        <mxCell id="YRfRc5hVLMAo7PMf_Jee-6" value="suma = num1 + num2&#xa;diferencia = num1 - num2&#xa;producto = num1 * num2&#xa;cociente = num1 / num2" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="210" y="280" width="165" height="170" as="geometry" />
         </mxCell>
         <mxCell id="YRfRc5hVLMAo7PMf_Jee-7" value="&lt;b&gt;Imprimir suma, diferencia, producto, cociente&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="200" y="500" width="170" height="120" as="geometry" />
